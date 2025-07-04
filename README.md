@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/XODOBYTE?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/XODOBYTE?label=Followers&style=social"></a>
-<a href="https://github.com/XODOBYTE/owen/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XODOBYTE/owen?&style=social"></a>
-<a href="https://github.com/XODOBYTE/owen/network/members"><img title="Forks" src="https://img.shields.io/github/forks/XODOBYTE/owen?style=social"></a>
-<a href="https://github.com/XODOBYTE/owen/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XODOBYTE/owen?label=Watching&style=social"></a>
+<a href="https://github.com/xodobyte?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/xodobyte?label=Followers&style=social"></a>
+<a href="https://github.com/xodobyte/OWEN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xodobyte/OWEN?&style=social"></a>
+<a href="https://github.com/xodobyte/OWEN/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xodobyte/OWEN?style=social"></a>
+<a href="https://github.com/xodobyte/OWEN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xodobyte/OWEN?label=Watching&style=social"></a>
 <img title="Downloads" src="https://img.shields.io/github/downloads/XODOBYTE/owen/total?label=Total%20Downloads">
 <img title="Clones" src="https://img.shields.io/badge/Clones-Live-informational">
 <img title="Live Viewers" src="https://img.shields.io/badge/Live%20Sessions-Active-brightgreen">
@@ -25,7 +25,7 @@ Powerful, modular, and developer-optimized multi-device WhatsApp bot designed fo
 
 ### 1. Fork the Repository
 
-<a href='https://github.com/XODOBYTE/owen/fork' target="_blank">
+<a href='https://github.com/xodobyte/OWEN/fork' target="_blank">
   <img alt='Fork repo' src='https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
@@ -37,7 +37,7 @@ Powerful, modular, and developer-optimized multi-device WhatsApp bot designed fo
   </a>
 </p>
 <p align="center">
-  <a href="https://repl.it/github/XODOBYTE/owen">
+  <a href="https://repl.it/github/xodobyte/OWEN">
     <img src="https://img.shields.io/badge/Deploy%20on%20Replit-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/>
   </a>
 </p>
@@ -72,7 +72,7 @@ Powerful, modular, and developer-optimized multi-device WhatsApp bot designed fo
 ## 🙌 Support the Dev
 
 <p align="center">
-<a href="https://pay.yoco.com/ShopZa">
+<a href="https://paypal.me/realxryan">
   <img alt="Yoco" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/>
 </a>
 </p>
@@ -82,9 +82,6 @@ Powerful, modular, and developer-optimized multi-device WhatsApp bot designed fo
 ## 👨‍💻 Author
 
 **XODOBYTE**  
-<a href="https://github.com/XODOBYTE">
-  <img src="https://avatars.githubusercontent.com/u/149763717?v=4" width="150" height="150" alt="XODOBYTE"/>
-</a>
 
 ---
 
