@@ -53,50 +53,57 @@ Powerful, modular, and developer-optimized multi-device WhatsApp bot designed fo
 6. Configure your bot in config.js
 7. Start the bot using: node index.js
 ```
----
 
 ### ⚠️ IMPORTANT:
-Delete previous session files before restarting.
-
-Unlink the device to avoid WA multi-login issues.
-
----
-
-### 🌐 Hosting Option - Bot Hosting
-1.Login to bot-hosting.net
-2. Earn coins to create a free Node.js server
-3. Upload OWEN files and configure environment
-4. Run using Node runtime
+- Delete previous session files before restarting.
+- Unlink the device to avoid WA multi-login issues.
 
 ---
 
-### 🙌 Support the Dev
-<p align="center"> <a href="https://paypal.me/realxryan"> <img alt="Yoco" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/> </a> </p>
+## 🌐 Hosting Option - Bot Hosting
+
+1. Login to [bot-hosting.net](https://bot-hosting.net)  
+2. Earn coins to create a free Node.js server  
+3. Upload OWEN files and configure environment  
+4. Run using Node runtime  
 
 ---
 
-### 👨‍💻 Author
-XODOBYTE
+## 🙌 Support the Dev
+
+<p align="center">
+<a href="https://pay.yoco.com/ShopZa">
+  <img alt="Yoco" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/>
+</a>
+</p>
+
+---
+
+## 👨‍💻 Author
+
+**XODOBYTE**  
 <a href="https://github.com/XODOBYTE">
-<img src="https://avatars.githubusercontent.com/u/149763717?v=4" width="150" height="150" alt="XODOBYTE"/>
+  <img src="https://avatars.githubusercontent.com/u/149763717?v=4" width="150" height="150" alt="XODOBYTE"/>
 </a>
 
 ---
 
-### 📜 License & Notices
-- Not affiliated with WhatsApp Inc.
-- Use responsibly — abuse may lead to account bans.
-- Not for sale.
-- diting obfuscated plugins is strictly prohibited.
-- Credit required for forks and reuploads.
+## 📜 License & Notices
+
+- Not affiliated with WhatsApp Inc.  
+- Use responsibly — abuse may lead to account bans.  
+- Not for sale.  
+- Editing obfuscated plugins is strictly prohibited.  
+- Credit required for forks and reuploads.  
 
 ---
 
-### ⭐ Reminder
-- Always keep session clean before restarting.
-- Your WhatsApp account may be banned for bot misuse.
-- XODOBYTE holds no responsibility for any misuse.
+## ⭐ Reminder
+
+- Always keep session clean before restarting.  
+- Your WhatsApp account may be banned for bot misuse.  
+- XODOBYTE holds no responsibility for any misuse.  
 
 ---
 
-Have fun using OWEN, and build smart with security, speed, and control.
+> Have fun using **OWEN**, and build smart with security, speed, and control.
