@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="OWEN Bot" height="300" src="https://raw.githubusercontent.com/XODOBYTE/BOT-ASSETS/main/OWEN/pic/owen.jpg">
+  <img alt="OWEN Bot" height="300" src="https://raw.githubusercontent.com/XODOBYTE/OWEN/owen.jpg">
   <h1 align="center">OWEN | Advanced WhatsApp Bot</h1>
 </p>
 
