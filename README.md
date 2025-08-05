@@ -3,7 +3,7 @@
 # ⚡ OWEN — WhatsApp Bot  
 
 **Multi-Mode | AI-Powered | Fast | Feature-Rich**  
-Built with 💚 on top of [Baileys]([https://github.com/WhiskeySockets/Baileys])  
+Built with 💚 on top of [Baileys](https://github.com/WhiskeySockets/Baileys)  
 
 ![Stars](https://img.shields.io/github/stars/xodobyte/OWEN?style=for-the-badge) 
 ![Forks](https://img.shields.io/github/forks/xodobyte/OWEN?style=for-the-badge) 
