@@ -24,7 +24,6 @@ Built with 💚 on top of [Baileys](https://github.com/WhiskeySockets/Baileys)
 ✅ **Anti-Spam System** — Blocks spam & floods automatically  
 ✅ **Media Tools** — Stickers with watermark, video/image conversion  
 ✅ **Downloader Tools** — YouTube, Instagram, TikTok, and more  
-✅ **Plugin System** — Drop a `.js` file in `command/` to add commands instantly  
 
 ---
 
