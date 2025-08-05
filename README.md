@@ -1,106 +1,81 @@
-<p align="center">
-  <img alt="OWEN Bot" height="300" src="https://github.com/xodobyte/OWEN/blob/main/owen.jpg">
-  <h1 align="center">OWEN | Advanced WhatsApp Bot</h1>
-</p>
+<div align="center">
+  
+# ⚡ XodoByte — WhatsApp Bot  
 
-<p align="center">
-<a href="https://github.com/xodobyte?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/xodobyte?label=Followers&style=social"></a>
-<a href="https://github.com/xodobyte/OWEN/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xodobyte/OWEN?&style=social"></a>
-<a href="https://github.com/xodobyte/OWEN/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xodobyte/OWEN?style=social"></a>
-<a href="https://github.com/xodobyte/OWEN/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xodobyte/OWEN?label=Watching&style=social"></a>
-<img title="Downloads" src="https://img.shields.io/github/downloads/XODOBYTE/owen/total?label=Total%20Downloads">
-<img title="Clones" src="https://img.shields.io/badge/Clones-Live-informational">
-<img title="Live Viewers" src="https://img.shields.io/badge/Live%20Sessions-Active-brightgreen">
-</p>
+**Multi-Mode | AI-Powered | Fast | Feature-Rich**  
+Built with 💚 on top of [Baileys](https://github.com/adiwajshing/Baileys)  
 
----
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge) 
+![Forks](https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge) 
+![Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge) 
+![License](https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge)  
 
-## 🤖 OWEN - Feature-Rich WhatsApp Bot
-
-Powerful, modular, and developer-optimized multi-device WhatsApp bot designed for performance and extensibility.
+</div>
 
 ---
 
-## 🚀 SETUP
+## ✨ Features
 
-### 1. Fork the Repository
+✅ **Multi-Mode Operation** — Public, Self, Private & Admin-Only  
+✅ **AI Commands** — ChatGPT-style answers & image enhancement  
+✅ **Group Management** — Welcome messages, tagall, mute/unmute, ban/unban  
+✅ **Anti-Spam System** — Blocks spam & floods automatically  
+✅ **Media Tools** — Stickers with watermark, video/image conversion  
+✅ **Downloader Tools** — YouTube, Instagram, TikTok, and more  
+✅ **Plugin System** — Drop a `.js` file in `command/` to add commands instantly  
 
-<a href='https://github.com/xodobyte/OWEN/fork' target="_blank">
-  <img alt='Fork repo' src='https://img.shields.io/badge/Fork%20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
-</a>
+---
 
-### 2. Install on Replit
+## 🚀 Quick Start
 
-<p align="center">
-  <a href="https://replit.com/signup">
-    <img src="https://img.shields.io/badge/Replit%20Signup-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://repl.it/github/xodobyte/OWEN">
-    <img src="https://img.shields.io/badge/Deploy%20on%20Replit-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/>
-  </a>
-</p>
-
-### 3. PC Installation (Recommended)
-
-```sh
-1. Download the OWEN source code as ZIP
-2. Extract the folder
-3. Open terminal and navigate to the OWEN folder
-4. Install Node.js (if not already installed)
-5. Run: npm install
-6. Configure your bot in config.js
-7. Start the bot using: node index.js
+### 1️⃣ Install Requirements
+```bash
+git clone https://github.com/USERNAME/REPO.git
+cd REPO
+npm install
 ```
 
-### ⚠️ IMPORTANT:
-- Delete previous session files before restarting.
-- Unlink the device to avoid WA multi-login issues.
+### 2️⃣ Configure
+Edit:
+```js
+// settings/config.js
+global.owner = ["YOUR_NUMBER_HERE"];
+```
+Add your number in international format (without `+`).
+
+### 3️⃣ Start Bot
+```bash
+node index.js
+```
+📱 On first run, enter your WhatsApp number to get a **Pairing Code**.
 
 ---
 
-## 🌐 Hosting Option - Bot Hosting
+## 🛠️ Commands Preview
+> Type `.menu` in WhatsApp to see the full command list.
 
-1. Login to [bot-hosting.net](https://bot-hosting.net)  
-2. Earn coins to create a free Node.js server  
-3. Upload OWEN files and configure environment  
-4. Run using Node runtime  
-
----
-
-## 🙌 Support the Dev
-
-<p align="center">
-<a href="https://paypal.me/realxryan">
-  <img alt="Yoco" src="https://a.storyblok.com/f/111633/600x120/efd2e37265/payment-strip.svg"/>
-</a>
-</p>
+| Category        | Examples                                  |
+|-----------------|-------------------------------------------|
+| **AI**          | `.ai Hello`, `.enhance <image>`           |
+| **Group**       | `.tagall`, `.mutegc`, `.unmutegc`          |
+| **Media**       | `.swm pack|author <image>`, `.get <url>`   |
+| **Tools**       | `.public`, `.private`, `.mode`             |
+| **Fun**         | `.pokemon`, `.mtg`                         |
 
 ---
 
-## 👨‍💻 Author
+## 📷 Screenshots
 
-**XODOBYTE**  
-
----
-
-## 📜 License & Notices
-
-- Not affiliated with WhatsApp Inc.  
-- Use responsibly — abuse may lead to account bans.  
-- Not for sale.  
-- Editing obfuscated plugins is strictly prohibited.  
-- Credit required for forks and reuploads.  
+<div align="center">
+<img src="https://via.placeholder.com/500x300.png?text=Bot+Menu" alt="Menu" width="500"/>
+<img src="https://via.placeholder.com/500x300.png?text=Group+Welcome" alt="Welcome" width="500"/>
+</div>
 
 ---
 
-## ⭐ Reminder
-
-- Always keep session clean before restarting.  
-- Your WhatsApp account may be banned for bot misuse.  
-- XODOBYTE holds no responsibility for any misuse.  
+## 📜 License
+This project is licensed under the **MIT License** — feel free to modify and distribute.
 
 ---
 
-> Have fun using **OWEN**, and build smart with security, speed, and control.
+⭐ **Star this repo** if you enjoy XodoByte and want more features!
