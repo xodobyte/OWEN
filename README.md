@@ -67,8 +67,7 @@ node index.js
 ## 📷 Banner
 
 <div align="center">
-<img src="https://via.placeholder.com/500x300.png?text=Bot+Menu" alt="Menu" width="500"/>
-<img src="https://via.placeholder.com/500x300.png?text=Group+Welcome" alt="Welcome" width="500"/>
+<img src="./blob/main/owen.jpg" alt="Menu" width="500"/>
 </div>
 
 ---
