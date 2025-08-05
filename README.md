@@ -73,8 +73,8 @@ node index.js
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License** — feel free to modify and distribute.
+This project is licensed under the **MIT License**
 
 ---
 
-⭐ **Star this repo** if you enjoy Owen and want more features!
+⭐ **Star this repo** ɪꜰ ʏᴏᴜ ᴇɴᴊᴏʏ ᴏᴡᴇɴ ᴀɴᴅ ᴡᴀɴᴛ ᴍᴏʀᴇ ꜰᴇᴀᴛᴜʀᴇꜱ!
