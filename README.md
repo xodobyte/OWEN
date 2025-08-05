@@ -10,6 +10,7 @@ Built with 💚 on top of [Baileys](https://github.com/WhiskeySockets/Baileys)
 ![Issues](https://img.shields.io/github/issues/xodobyte/OWEN?style=for-the-badge) 
 ![License](https://img.shields.io/github/license/xodobyte/OWEN?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/xodobyte/OWEN?style=for-the-badge)
+![Watching](https://img.shields.io/github/watchers/xodobyte/OWEN?style=for-the-badge)
 
 </div>
 
@@ -57,11 +58,11 @@ node index.js
 
 | Category        | Examples                                  |
 |-----------------|-------------------------------------------|
-| **AI**          | `.chatgpt Hello`, `.enhance <image>`       |
-| **Group**       | `.tagall`, `.mutegc`, `.unmutegc`          |
-| **Media**       | `.swm pack|author <image>`, `.get <url>`   |
-| **Owner**       | `.public`, `.private`, `.mode`             |
-| **Fun**         | `.pokemon`, `.mtg`                         |
+| **AI**          | `.chatgpt Hello`                          |
+| **Group**       | `.tagall`                                 |
+| **Media**       | `.swm pack|author`                        |
+| **Owner**       | `.public`, `.private`, `.mode`            |
+| **Games**       | `.pokemon`, `.mtg`                        |
 
 ---
 
@@ -74,7 +75,13 @@ node index.js
 ---
 
 ## 📜 License
-This project is licensed under the **MIT License**
+ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ʟɪᴄᴇɴꜱᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ **MIT License**
+
+---
+
+### 🚧 Coming Soon...
+
+> ᴏᴡᴇɴ ɪꜱ ꜱᴛɪʟʟ ᴜɴᴅᴇʀ ᴀᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ɴᴏᴛ ʀᴇʟᴇᴀꜱᴇᴅ ᴘᴜʙʟɪᴄʟʏ ʏᴇᴛ. ꜱᴛᴀʏ ᴛᴜɴᴇᴅ — ɪᴛ'ꜱ ᴡᴏʀᴛʜ ᴛʜᴇ ᴡᴀɪᴛ.
 
 ---
 
