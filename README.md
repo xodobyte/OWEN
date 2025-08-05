@@ -1,14 +1,14 @@
 <div align="center">
   
-# ⚡ XodoByte — WhatsApp Bot  
+# ⚡ OWEN — WhatsApp Bot  
 
 **Multi-Mode | AI-Powered | Fast | Feature-Rich**  
 Built with 💚 on top of [Baileys](https://github.com/adiwajshing/Baileys)  
 
-![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge) 
-![Forks](https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge) 
-![Issues](https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge) 
-![License](https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge)  
+![Stars](https://img.shields.io/github/stars/xodobyte/OWEN?style=for-the-badge) 
+![Forks](https://img.shields.io/github/forks/xodobyte/OWEN?style=for-the-badge) 
+![Issues](https://img.shields.io/github/issues/xodobyte/OWEN?style=for-the-badge) 
+![License](https://img.shields.io/github/license/xodobyte/OWEN?style=for-the-badge)  
 
 </div>
 
@@ -56,15 +56,15 @@ node index.js
 
 | Category        | Examples                                  |
 |-----------------|-------------------------------------------|
-| **AI**          | `.ai Hello`, `.enhance <image>`           |
+| **AI**          | `.chatgpt Hello`, `.enhance <image>`       |
 | **Group**       | `.tagall`, `.mutegc`, `.unmutegc`          |
 | **Media**       | `.swm pack|author <image>`, `.get <url>`   |
-| **Tools**       | `.public`, `.private`, `.mode`             |
+| **Owner**       | `.public`, `.private`, `.mode`             |
 | **Fun**         | `.pokemon`, `.mtg`                         |
 
 ---
 
-## 📷 Screenshots
+## 📷 Banner
 
 <div align="center">
 <img src="https://via.placeholder.com/500x300.png?text=Bot+Menu" alt="Menu" width="500"/>
@@ -78,4 +78,4 @@ This project is licensed under the **MIT License** — feel free to modify and d
 
 ---
 
-⭐ **Star this repo** if you enjoy XodoByte and want more features!
+⭐ **Star this repo** if you enjoy Owen and want more features!
