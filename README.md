@@ -29,6 +29,13 @@ Built with 💚 on top of [Baileys](https://github.com/WhiskeySockets/Baileys)
 
 ## 🚀 Quick Start
 
+### 🖥️ Software Requirements (PC)
+You'll need to install the following software on your computer before you get started:
+1.  **VS Code:** A powerful and free code editor.
+2.  **Git:** A version control system to clone the bot's repository.
+3.  **Node.js:** The JavaScript runtime environment that powers the bot.
+4.  **ffmpeg:** A tool for handling video, audio, and other multimedia files.
+
 ### 1️⃣ Install Requirements
 ```bash
 git clone https://github.com/USERNAME/REPO.git
