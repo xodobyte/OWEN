@@ -8,7 +8,6 @@ Built with 💚 on top of [Baileys](https://github.com/WhiskeySockets/Baileys)
 ![Stars](https://img.shields.io/github/stars/xodobyte/OWEN?style=for-the-badge) 
 ![Forks](https://img.shields.io/github/forks/xodobyte/OWEN?style=for-the-badge) 
 ![Issues](https://img.shields.io/github/issues/xodobyte/OWEN?style=for-the-badge) 
-![License](https://img.shields.io/github/license/xodobyte/OWEN?style=for-the-badge)
 ![Repo Size](https://img.shields.io/github/repo-size/xodobyte/OWEN?style=for-the-badge)
 ![Watching](https://img.shields.io/github/watchers/xodobyte/OWEN?style=for-the-badge)
 
