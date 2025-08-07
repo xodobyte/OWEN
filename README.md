@@ -40,7 +40,7 @@ You'll need to install the following software on your computer before you get st
 ```bash
 git clone https://github.com/USERNAME/REPO.git
 cd REPO
-npm install
+npm install or npm i
 ```
 
 ### 2️⃣ Configure
