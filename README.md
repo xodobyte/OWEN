@@ -46,8 +46,8 @@ npm install
 ### 2️⃣ Configure
 Edit:
 ```js
-// settings/config.js
-global.owner = ["YOUR_NUMBER_HERE"];
+// .env
+OWNER_NUMBERS=2799999999
 ```
 Add your number in international format (without `+`).
 
