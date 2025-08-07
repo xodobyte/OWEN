@@ -81,7 +81,7 @@ node index.js
 ---
 
 ## 📜 License
-ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ʟɪᴄᴇɴꜱᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ **MIT License**
+ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ʟɪᴄᴇɴꜱᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ **XODOBYTE HIMSELF YOU GOT 0 RIGHTS TO EVEN THINK OF OPENING MY CODE OR REUSE**
 
 ---
 
