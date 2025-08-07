@@ -75,7 +75,7 @@ node index.js
 ## 📷 Banner
 
 <div align="center">
-<img src="owen.jpg" alt="Menu" width="500"/>
+<img src="owen.jpg" alt="Menu Image" width="700"/>
 </div>
 
 ---
