@@ -84,4 +84,15 @@ node index.js
 
 ---
 
+## ⚠️ Disclaimer
+
+OWEN is **not affiliated, associated, authorized, endorsed by, or in any way officially connected** with WhatsApp or any of its subsidiaries.  
+Use of this bot is **entirely at your own risk**. Whether your number gets banned or not is **not** under the control of the bot or its developer.  
+By using this bot, **you accept full responsibility** for your actions and the outcomes.  
+Do **not** blame the bot maker, contributors, or anyone else for anything that happens as a result of using OWEN.  
+
+That said — have a great day and enjoy the bot! 🚀
+
+---
+
 ⭐ **Star this repo** ɪꜰ ʏᴏᴜ ᴇɴᴊᴏʏ ᴏᴡᴇɴ ᴀɴᴅ ᴡᴀɴᴛ ᴍᴏʀᴇ ꜰᴇᴀᴛᴜʀᴇꜱ!
