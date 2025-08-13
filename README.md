@@ -10,7 +10,7 @@ Built with 💚 on top of [Baileys](https://github.com/WhiskeySockets/Baileys)
 ![Issues](https://img.shields.io/github/issues/xodobyte/OWEN?style=for-the-badge) 
 ![Repo Size](https://img.shields.io/github/repo-size/xodobyte/OWEN?style=for-the-badge)
 ![Watching](https://img.shields.io/github/watchers/xodobyte/OWEN?style=for-the-badge)
-![Hits](https://hits.sh/github.com/xodobyte/OWEN.svg?style=flat-square)
+![Hits](https://hits.sh/github.com/xodobyte/OWEN.svg?style=for-the-badge)
 
 </div>
 
