@@ -1,0 +1,31 @@
+{
+  "name": "owen",
+  "version": "1.0.9",
+  "description": "Owen is a fast, modular WhatsApp bot built for stealth, control, and seamless execution.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": [
+    "xodobyte",
+    "owen",
+    "whatsapp"
+  ],
+  "author": "xodobyte",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.18",
+    "baileys": "^6.7.18",
+    "chalk": "^4.1.2",
+    "file-type": "^21.0.0",
+    "jimp": "^0.16.13",
+    "node-webpmux": "^3.2.1",
+    "pino": "^8.17.2",
+    "sqlite3": "^5.1.7",
+    "undici": "^7.13.0"
+  }
+}
