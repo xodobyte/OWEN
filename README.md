@@ -10,7 +10,6 @@ Built with 💚 on top of [Baileys](https://github.com/WhiskeySockets/Baileys)
 ![Issues](https://img.shields.io/github/issues/xodobyte/OWEN?style=for-the-badge) 
 ![Repo Size](https://img.shields.io/github/repo-size/xodobyte/OWEN?style=for-the-badge)
 ![Watching](https://img.shields.io/github/watchers/xodobyte/OWEN?style=for-the-badge)
-![Hits](https://hits.sh/github.com/xodobyte/OWEN.svg?style=for-the-badge)
 
 </div>
 
@@ -82,12 +81,6 @@ node index.js
 
 ## 📜 License
 ᴛʜɪꜱ ᴘʀᴏᴊᴇᴄᴛ ɪꜱ ʟɪᴄᴇɴꜱᴇᴅ ᴜɴᴅᴇʀ **XODOBYTE HIMSELF YOU GOT 0 RIGHTS TO EVEN THINK OF OPENING MY CODE OR REUSE**
-
----
-
-### 🚧 Coming Soon...
-
-> ᴏᴡᴇɴ ɪꜱ ꜱᴛɪʟʟ ᴜɴᴅᴇʀ ᴀᴄᴛɪᴠᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴀɴᴅ ɴᴏᴛ ʀᴇʟᴇᴀꜱᴇᴅ ᴘᴜʙʟɪᴄʟʏ ʏᴇᴛ. ꜱᴛᴀʏ ᴛᴜɴᴇᴅ — ɪᴛ'ꜱ ᴡᴏʀᴛʜ ᴛʜᴇ ᴡᴀɪᴛ.
 
 ---
 
